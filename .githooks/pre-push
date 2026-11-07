@@ -1,0 +1,9 @@
+#!/bin/sh
+# main changes only through a pull request whose check passes (the owner's rule, 2026-11-06): pr_push.ps1.
+while read local_ref local_sha remote_ref remote_sha; do
+  if [ "$remote_ref" = "refs/heads/main" ]; then
+    echo "pre-push: no pushes to main; use pr_push.ps1 (a pull request whose check passes)" >&2
+    exit 1
+  fi
+done
+exit 0

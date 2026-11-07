@@ -1,0 +1,11 @@
+name: check
+on:
+  pull_request:
+  push:
+    branches: [main]
+jobs:
+  no-bridge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 .github/check_no_tic.py
