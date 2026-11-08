@@ -1,0 +1,14 @@
+Al-Harra 10 km (ARMA 3 terrain, @tic_alharra) by Troops in Contact (TICMODS)
+
+This work is licensed under the Arma Public License No Derivatives (APL-ND).
+To view a copy of this license, visit https://www.bohemia.net/community/licenses/arma-public-license-nd
+
+In short (the licence text at that address is what binds):
+- Attribution: credit "Al-Harra 10 km by Troops in Contact (TICMODS)"; do not suggest we endorse you.
+- Noncommercial: no commercial use.
+- Arma Only: do not convert or adapt it for games other than Arma.
+- No Derivatives: do not share a modified copy (no edited, repacked or re-uploaded versions).
+
+You may share the unmodified package and play it on your servers.
+
+Map credits: Contains modified Copernicus Sentinel data 2026; map data (c) OpenStreetMap contributors, ODbL.
