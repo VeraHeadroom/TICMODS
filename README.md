@@ -21,5 +21,5 @@ ARMA also needs these Steam Workshop mods (not copied here; subscribe on the Wor
 
 Latest: 2026-11-07. Checksums of every package: [SHA256SUMS.txt](SHA256SUMS.txt).
 
-Map credits Contains modified Copernicus Sentinel data 2026; map data (c) OpenStreetMap
+Map credits: Contains modified Copernicus Sentinel data 2026; map data (c) OpenStreetMap
 contributors, ODbL.
