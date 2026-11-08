@@ -1,7 +1,6 @@
 # TICMODS
 
-The mods players install for Troops in Contact: an ARMA 3 terrain and a DCS World unit mod. Public, free.
-Nothing here runs on its own or connects anywhere: a terrain and unit definitions.
+The mods players install for Troops in Contact: an ARMA 3 terrain and a DCS World unit mod. 
 
 | Mod | Game | Get it |
 | --- | --- | --- |
@@ -22,6 +21,5 @@ ARMA also needs these Steam Workshop mods (not copied here; subscribe on the Wor
 
 Latest: 2026-11-07. Checksums of every package: [SHA256SUMS.txt](SHA256SUMS.txt).
 
-Map credits: built from DCS World's terrain answers (heights, roads, buildings, ground) with Eagle Dynamics' go-ahead;
-our own building models and textures. Contains modified Copernicus Sentinel data 2026; map data (c) OpenStreetMap
+Map credits Contains modified Copernicus Sentinel data 2026; map data (c) OpenStreetMap
 contributors, ODbL.
