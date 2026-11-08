@@ -5,6 +5,7 @@ The mods players install for Troops in Contact: an ARMA 3 terrain and a DCS Worl
 | Mod | Game | Get it |
 | --- | --- | --- |
 | Al-Harra 10 km | ARMA 3 | Releases: `TICMODS-<date>-ARMA-AlHarra10km.zip` ([INSTALL_ARMA.md](INSTALL_ARMA.md)) |
+| Al-Harra 30 km | ARMA 3 | Releases: `TICMODS-<date>-ARMA-AlHarra30km.zip` ([INSTALL_ARMA_30KM.md](INSTALL_ARMA_30KM.md)) |
 | TIC_FastSoldier | DCS World | Releases: `TICMODS-<date>-DCS-FastSoldier.zip`, or the files in `dcs/` ([INSTALL_DCS.md](INSTALL_DCS.md)) |
 
 ARMA also needs these Steam Workshop mods (not copied here; subscribe on the Workshop):
@@ -19,9 +20,9 @@ ARMA also needs these Steam Workshop mods (not copied here; subscribe on the Wor
 8. RHS: GREF: https://steamcommunity.com/sharedfiles/filedetails/?id=843593391
 9. CFP, Community Factions Project: https://steamcommunity.com/sharedfiles/filedetails/?id=1369691841
 
-Latest: 2026-11-07. Checksums of every package: [SHA256SUMS.txt](SHA256SUMS.txt).
+Latest: 2026-11-08. Checksums of every package: [SHA256SUMS.txt](SHA256SUMS.txt).
 
-Licence: the Al-Harra 10 km map is under the [Arma Public License No Derivatives (APL-ND)](https://www.bohemia.net/community/licenses/arma-public-license-nd)
+Licence: the Al-Harra maps (10 km and 30 km) are under the [Arma Public License No Derivatives (APL-ND)](https://www.bohemia.net/community/licenses/arma-public-license-nd)
 ([LICENSE_APL-ND.txt](LICENSE_APL-ND.txt)): share it unmodified and credit it; no commercial use, Arma only, no modified copies.
 
 Map credits: Contains modified Copernicus Sentinel data 2026; map data (c) OpenStreetMap
