@@ -21,5 +21,8 @@ ARMA also needs these Steam Workshop mods (not copied here; subscribe on the Wor
 
 Latest: 2026-11-07. Checksums of every package: [SHA256SUMS.txt](SHA256SUMS.txt).
 
+Licence: the Al-Harra 10 km map is under the [Arma Public License No Derivatives (APL-ND)](https://www.bohemia.net/community/licenses/arma-public-license-nd)
+([LICENSE_APL-ND.txt](LICENSE_APL-ND.txt)): share it unmodified and credit it; no commercial use, Arma only, no modified copies.
+
 Map credits: Contains modified Copernicus Sentinel data 2026; map data (c) OpenStreetMap
 contributors, ODbL.

@@ -23,3 +23,6 @@ building models, sized to DCS's), 2026-11-07.
    `-mod=` in the order above, the map last.
 
 Checksums: `SHA256SUMS.txt` in the repository.
+
+Licence: Arma Public License No Derivatives (APL-ND), `@tic_alharra/LICENSE_APL-ND.txt`: share it unmodified and credit
+it; no commercial use, Arma only, no modified copies.
