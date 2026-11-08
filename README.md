@@ -1,6 +1,6 @@
 # TICMODS
 
-The mods players install for Troops in Contact: an ARMA 3 terrain and a DCS World unit mod. 
+The mods players install for Troops in Contact: an ARMA 3 terrain and a DCS World unit mod.
 
 | Mod | Game | Get it |
 | --- | --- | --- |
