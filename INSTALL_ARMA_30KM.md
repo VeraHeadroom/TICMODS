@@ -19,6 +19,8 @@ buildings (our own building models, sized to DCS's); the 10 km map is its centre
 
 1. Unzip this package. Copy `@tic_alharra30` into your ARMA 3 folder (beside `arma3_x64.exe`).
 2. In the ARMA 3 Launcher: Mods > ... > Add watched folder / local mod, pick `@tic_alharra30`, tick it with the mods above.
+   Tick only ONE Al-Harra map (10 km or 30 km): both carry the same buildings file. To join a server, use the map from the
+   same release (tag) the server runs: a map from another release is refused ("Verifying PBO failed").
    It carries its own copy of the building models, so it needs no other map; the 10 km map may be loaded too.
 3. Servers: copy `keys/tic.bikey` into the server's `keys` folder (signature check), and load the mods with
    `-mod=` in the order above, the map last.
