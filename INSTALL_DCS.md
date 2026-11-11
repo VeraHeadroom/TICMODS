@@ -1,7 +1,7 @@
 # TIC_FastSoldier (DCS World)
 
 Unit types for DCS World: soldiers on DCS's own soldier models that run up to 6 m/s (DCS's own top out at 4), and a few
-faster ground vehicles. Nothing runs by itself: they appear only when a mission places them. 2026-11-08.
+faster ground vehicles. Nothing runs by itself: they appear only when a mission places them. 2026-11-10.
 
 ## Install
 
