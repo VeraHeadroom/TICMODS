@@ -4,7 +4,7 @@ The mods players install for Troops in Contact: ARMA 3 terrains and DCS World un
 
 | Mod | Game | Get it |
 | --- | --- | --- |
-| Al-Harra 10 km | ARMA 3 | Releases: `TICMODS-<date>-ARMA-AlHarra10km.zip` ([INSTALL_ARMA.md](INSTALL_ARMA.md)) |
+| Al-Harra 10 km: **OUT OF DATE** (not kept up to date; use the 30 km map) | ARMA 3 | Releases: `TICMODS-<date>-ARMA-AlHarra10km.zip` ([INSTALL_ARMA.md](INSTALL_ARMA.md)) |
 | Al-Harra 30 km | ARMA 3 | Releases: `TICMODS-<date>-ARMA-AlHarra30km.zip` ([INSTALL_ARMA_30KM.md](INSTALL_ARMA_30KM.md)) |
 | TIC_FastSoldier | DCS World | Releases: `TICMODS-<date>-DCS-FastSoldier.zip`, or the files in `dcs/` ([INSTALL_DCS.md](INSTALL_DCS.md)) |
 | TIC_Civilians | DCS World | Releases: `TICMODS-<date>-DCS-Civilians.zip` ([INSTALL_DCS_CIVILIANS.md](INSTALL_DCS_CIVILIANS.md)): civilian people; every player who should see them, and the server |

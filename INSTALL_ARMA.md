@@ -1,4 +1,7 @@
-# Al-Harra 10 km (ARMA 3 terrain)
+# Al-Harra 10 km (ARMA 3 terrain): OUT OF DATE
+
+> **OUT OF DATE.** The Al-Harra 10 km map is no longer kept up to date. Play on the [Al-Harra 30 km map](INSTALL_ARMA_30KM.md).
+
 
 Al-Harra, Daraa, from DCS World's Syria map, as an ARMA 3 terrain: DCS's heights, roads, ground and buildings (our own
 building models, sized to DCS's), 2026-11-08.
