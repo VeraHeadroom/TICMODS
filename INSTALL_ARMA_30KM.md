@@ -1,7 +1,7 @@
 # Al-Harra 30 km (ARMA 3 terrain)
 
 30.72 km around Al-Harra, Daraa, from DCS World's Syria map, as an ARMA 3 terrain: DCS's heights, roads, ground and
-buildings (our own building models, sized to DCS's); the 10 km map is its centre square. 2026-11-08.
+buildings (our own building models, sized to DCS's); the 10 km map is its centre square. 2026-11-11.
 
 ## Needs (Steam Workshop, free; subscribe, in this order)
 

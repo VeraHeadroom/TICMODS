@@ -3,7 +3,7 @@
 Unarmed civilian people for DCS World: men in a thobe, a keffiyeh or a shirt, a woman, an old man and a child, on DCS's
 own human chassis and infantry animations (they walk, run, fall). Nothing runs by itself: they appear only when a
 mission or a server places them (unit types `TIC_Civ_Man_01`, `TIC_Civ_Man_Keffiyeh_01`, `TIC_Civ_Man_Shirt_01`,
-`TIC_Civ_Woman_01`, `TIC_Civ_Elder_01`, `TIC_Civ_Child_01`, ...). 2026-11-10.
+`TIC_Civ_Woman_01`, `TIC_Civ_Elder_01`, `TIC_Civ_Child_01`, ...). 2026-11-11.
 
 ## Install (every player who should see them, and the server)
 
