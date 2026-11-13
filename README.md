@@ -21,7 +21,7 @@ ARMA also needs these Steam Workshop mods (not copied here; subscribe on the Wor
 8. RHS: GREF: https://steamcommunity.com/sharedfiles/filedetails/?id=843593391
 9. CFP, Community Factions Project: https://steamcommunity.com/sharedfiles/filedetails/?id=1369691841
 
-Latest: 2026-11-11. Checksums of every package: [SHA256SUMS.txt](SHA256SUMS.txt).
+Latest: 2026-11-13. Checksums of every package: [SHA256SUMS.txt](SHA256SUMS.txt).
 
 TIC_Civilians: free, non-commercial; MakeHuman CC0 bodies, our own garments and animations, exported with Eagle
 Dynamics' EDM exporter (non-commercial licence), for DCS World under ED's terms ([INSTALL_DCS_CIVILIANS.md](INSTALL_DCS_CIVILIANS.md)).
