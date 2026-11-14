@@ -4,7 +4,7 @@
 
 
 Al-Harra, Daraa, from DCS World's Syria map, as an ARMA 3 terrain: DCS's heights, roads, ground and buildings (our own
-building models, sized to DCS's), 2026-11-08.
+building models, sized to DCS's), 2026-11-14.
 
 ## Needs (Steam Workshop, free; subscribe, in this order)
 
