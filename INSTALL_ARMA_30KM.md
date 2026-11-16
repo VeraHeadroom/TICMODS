@@ -1,7 +1,7 @@
 # Al-Harra 30 km (ARMA 3 terrain)
 
 30.72 km around Al-Harra, Daraa, from DCS World's Syria map, as an ARMA 3 terrain: DCS's heights, roads, ground and
-buildings (our own building models, sized to DCS's); the 10 km map is its centre square. 2026-11-14.
+buildings (our own building models, sized to DCS's). 2026-11-14.
 
 ## Needs (Steam Workshop, free; subscribe, in this order)
 
@@ -19,9 +19,8 @@ buildings (our own building models, sized to DCS's); the 10 km map is its centre
 
 1. Unzip this package. Copy `@tic_alharra30` into your ARMA 3 folder (beside `arma3_x64.exe`).
 2. In the ARMA 3 Launcher: Mods > ... > Add watched folder / local mod, pick `@tic_alharra30`, tick it with the mods above.
-   Tick only ONE Al-Harra map (10 km or 30 km): both carry the same buildings file. To join a server, use the map from the
-   same release (tag) the server runs: a map from another release is refused ("Verifying PBO failed").
-   It carries its own copy of the building models, so it needs no other map; the 10 km map may be loaded too.
+   To join a server, use the map from the same release (tag) the server runs: a map from another release is refused
+   ("Verifying PBO failed"). It carries its own building models and needs no other map.
 3. Servers: copy `keys/tic.bikey` into the server's `keys` folder (signature check), and load the mods with
    `-mod=` in the order above, the map last.
 
