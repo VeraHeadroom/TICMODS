@@ -7,7 +7,7 @@
 declare_plugin("TIC Fast Soldier", {
   installed = true,
   dirName = current_mod_path,
-  version = "1.0",
+  version = "1.1",   -- 1.1 (14 Nov 2026): fast Humvees 45 m/s, truck 38, 10 m/s2
   state = "installed",
   info = _("Troops in Contact: soldiers and vehicles faster than DCS's own"),
 })
