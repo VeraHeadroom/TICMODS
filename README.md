@@ -11,14 +11,15 @@ The mods players install for Troops in Contact: ARMA 3 terrains and DCS World un
 ARMA also needs these Steam Workshop mods (not copied here; subscribe on the Workshop):
 
 1. CBA_A3: https://steamcommunity.com/sharedfiles/filedetails/?id=450814997
-2. CUP Terrains - Core: https://steamcommunity.com/sharedfiles/filedetails/?id=583496184
-3. CUP Weapons: https://steamcommunity.com/sharedfiles/filedetails/?id=497660133
-4. CUP Units: https://steamcommunity.com/sharedfiles/filedetails/?id=497661914
-5. CUP Vehicles: https://steamcommunity.com/sharedfiles/filedetails/?id=541888371
-6. RHS: AFRF: https://steamcommunity.com/sharedfiles/filedetails/?id=843425103
-7. RHS: USAF: https://steamcommunity.com/sharedfiles/filedetails/?id=843577117
-8. RHS: GREF: https://steamcommunity.com/sharedfiles/filedetails/?id=843593391
-9. CFP, Community Factions Project: https://steamcommunity.com/sharedfiles/filedetails/?id=1369691841
+2. ACE3: https://steamcommunity.com/sharedfiles/filedetails/?id=463939057 (needs CBA_A3; downed aircrew's injuries use ACE medical)
+3. CUP Terrains - Core: https://steamcommunity.com/sharedfiles/filedetails/?id=583496184
+4. CUP Weapons: https://steamcommunity.com/sharedfiles/filedetails/?id=497660133
+5. CUP Units: https://steamcommunity.com/sharedfiles/filedetails/?id=497661914
+6. CUP Vehicles: https://steamcommunity.com/sharedfiles/filedetails/?id=541888371
+7. RHS: AFRF: https://steamcommunity.com/sharedfiles/filedetails/?id=843425103
+8. RHS: USAF: https://steamcommunity.com/sharedfiles/filedetails/?id=843577117
+9. RHS: GREF: https://steamcommunity.com/sharedfiles/filedetails/?id=843593391
+10. CFP, Community Factions Project: https://steamcommunity.com/sharedfiles/filedetails/?id=1369691841
 
 Latest: 2026-11-20. Checksums of every package: [SHA256SUMS.txt](SHA256SUMS.txt).
 
